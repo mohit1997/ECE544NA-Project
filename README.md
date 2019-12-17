@@ -7,7 +7,7 @@
 2. Numpy
 3. Argparse
 4. Sklearn
-5. Tensorflow (gpu) 2
+5. Tensorflow (gpu/cpu) 2
 
 
 ### Download and install dependencies
